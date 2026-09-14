@@ -1,0 +1,4 @@
+aedat==2.2.0
+numpy==2.2.6
+imageio-ffmpeg==0.6.0
+Pillow==12.3.0
